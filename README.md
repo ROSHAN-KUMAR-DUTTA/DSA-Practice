@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
