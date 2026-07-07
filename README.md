@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
