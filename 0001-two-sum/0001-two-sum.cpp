@@ -9,10 +9,14 @@ public:
         // }
         unordered_map<int,int>mpp;
         for(int i=0;i<n;i++){
-            int complement=target-nums[i];
-            if(mpp.find(complement)!=mpp.end()) return {i,mpp[complement]};
+        int target1=target-nums[i];
+        if(mpp.find(target1)!=mpp.end() && i!=mpp[target1]){
+            return {mpp[target1],i};
+        }
+        else{
             mpp[nums[i]]=i;
         }
-        return {-1};
+    }
+    return {-1,-1};
     }
 };
