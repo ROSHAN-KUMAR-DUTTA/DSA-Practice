@@ -2,12 +2,24 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         vector<int>intersection;
+        if(nums1.size()<nums2.size()){
+
         unordered_set<int>mpp(nums1.begin(),nums1.end());
         for(auto it:nums2){
             if(mpp.find(it)!=mpp.end()){
                 intersection.push_back(it);
                 mpp.erase(it);
             }
+        }
+        }
+        else{
+            unordered_set<int>mpp(nums2.begin(),nums2.end());
+        for(auto it:nums1){
+            if(mpp.find(it)!=mpp.end()){
+                intersection.push_back(it);
+                mpp.erase(it);
+            }
+        }
         }
         return intersection;
     }
