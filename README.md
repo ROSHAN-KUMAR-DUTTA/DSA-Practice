@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
