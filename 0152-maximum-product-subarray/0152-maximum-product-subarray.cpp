@@ -5,7 +5,7 @@ public:
     int suffixProduct = INT_MIN;
     int suffix = 1;
     int prefixProduct = INT_MIN;
-    int prefix = 1;
+     int prefix = 1;
     for (int i = 0; i < n; i++)
     {
         suffix *= nums[i];
