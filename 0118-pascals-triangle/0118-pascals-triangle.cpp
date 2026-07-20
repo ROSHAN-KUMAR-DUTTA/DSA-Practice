@@ -12,7 +12,7 @@ public:
     return temp;
 }
     vector<vector<int>> generate(int n) {
-    vector<vector<int>> ans;
+        vector<vector<int>> ans;
     for(int i=0;i<n;i++){
         ans.push_back(generateRow(i+1));
     }
