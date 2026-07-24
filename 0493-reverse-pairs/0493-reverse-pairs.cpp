@@ -33,7 +33,7 @@ public:
 
 long long findPairs(vector<int>& arr,int low, int mid, int high){
     long long cnt=0;
-    int right=mid+1;
+     int right=mid+1;
     for(int i=low;i<=mid;i++){
         while(right<=high && 1LL*arr[i]>2LL*arr[right]){
             right++;
