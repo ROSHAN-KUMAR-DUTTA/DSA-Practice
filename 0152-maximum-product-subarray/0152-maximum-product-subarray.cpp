@@ -2,9 +2,9 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n=nums.size();
-        long long suffix=1;
-    long long preffix=1;
-    long long maxi=LLONG_MIN;
+        int suffix=1;
+    int preffix=1;
+    int maxi=INT_MIN;
     for(int i=0;i<n;i++){
         if(suffix==0) suffix=1;
         if(preffix==0) preffix=1;
