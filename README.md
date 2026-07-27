@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
