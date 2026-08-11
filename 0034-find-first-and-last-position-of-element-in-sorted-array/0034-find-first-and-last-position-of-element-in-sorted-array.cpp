@@ -29,6 +29,6 @@ public:
                 low1 = mid + 1;
         }
 
-        return {isFirst, isLast};
+        return {isFirst,  isLast};
     }
 };
