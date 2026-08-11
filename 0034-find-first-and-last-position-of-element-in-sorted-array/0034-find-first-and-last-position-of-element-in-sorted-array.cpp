@@ -8,7 +8,7 @@ public:
     int high1 = n - 1;
     int isLast = -1;
     int isFirst = -1;
-    while (low <= high)
+    while ( low <= high)
     {
         int mid = low + (high - low) / 2;
         if (nums[mid] == x)
