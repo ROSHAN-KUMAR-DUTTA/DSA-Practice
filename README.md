@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0704-binary-search) |
