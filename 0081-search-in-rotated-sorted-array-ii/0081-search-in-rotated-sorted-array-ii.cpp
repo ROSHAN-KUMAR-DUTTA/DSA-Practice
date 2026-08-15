@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool search(vector<int>& arr, int x) {
-    int n = arr.size();
+        int n = arr.size();
         int low = 0;
         int high = n - 1;
         while (low <= high) {
