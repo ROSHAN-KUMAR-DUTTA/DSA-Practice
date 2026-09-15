@@ -6,7 +6,7 @@ public:
         int high = n - 1;
         int mini = INT_MAX;
         while (low <= high) {
-            int mid = low + (high - low) / 2;
+            int mid =low + (high - low) / 2;
             mini = min(mini, arr[low]);
             if (arr[low] == arr[mid] && arr[mid] == arr[high]) {
                 low++;
