@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool possible(vector<int>& arr, long long n, long long days, long long m, long long k) {
-        int count = 0;
+        int count =0;
         int bloomed = 0;
         for (int i = 0; i < n; i++) {
             if (arr[i] <= days) {
