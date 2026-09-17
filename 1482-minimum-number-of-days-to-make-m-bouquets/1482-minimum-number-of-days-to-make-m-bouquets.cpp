@@ -14,7 +14,7 @@ public:
         bloomed += count / k;
         return bloomed >= m;
     }
-    int minDays(vector<int>& arr, int m, int k) {
+    int minDays(vector<int>& arr, int m, int k)  {
         int n=arr.size();
         long long check=(long long)m*k;
         if ((long long)n < check)
