@@ -5,7 +5,7 @@ public:
         for (int i = 0; i < n; i++) {
             ans += (k + piles[i] - 1) / k;
         }
-        return ans;
+        return ans ;
     }
 
     long long minEatingSpeed(vector<int>& piles, int h) {
