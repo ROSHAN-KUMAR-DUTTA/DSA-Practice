@@ -12,7 +12,7 @@ public:
         int n=arr.size();
         int ans = -1;
         int low = 1;
-        int high = *max_element(arr.begin(),arr.end());
+        int high =  *max_element(arr.begin(),arr.end());
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (divisorAns(arr, n, mid) <= threshold) {
