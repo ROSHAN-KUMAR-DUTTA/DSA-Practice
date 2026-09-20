@@ -21,7 +21,7 @@ public:
         return sum;
     }
     int shipWithinDays(vector<int>& weight, int days) {
-        int n=weight.size();
+        int n=weight.size() ;
         int low = *max_element(weight.begin(),weight.end());
         int high = findSum(weight, n);
         while (low <= high) {
