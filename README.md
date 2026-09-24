@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
