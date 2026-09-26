@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
