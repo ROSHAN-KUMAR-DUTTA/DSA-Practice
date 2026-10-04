@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& arr) {
         int n = arr.size();
-        int m = arr[0].size();
+        int m = arr[0].size() ;
         int maxCnt = 0;
         int rowOne = 0;
         for (int i = 0; i < n; i++) {
