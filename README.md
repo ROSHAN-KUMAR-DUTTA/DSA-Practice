@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Binary Indexed Tree
 |  |
 | ------- |
