@@ -3,7 +3,7 @@ public:
     int findMaxEleRow(vector<vector<int>>& matrix, int col) {
         int n = matrix.size();
 
-        int largest = INT_MIN ;
+        int largest = INT_MIN;
         int row = -1;
 
         for (int i = 0; i < n; i++) {
