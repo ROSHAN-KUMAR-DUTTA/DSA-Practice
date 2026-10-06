@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
