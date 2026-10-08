@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
