@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -226,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
