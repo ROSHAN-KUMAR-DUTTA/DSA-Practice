@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1859-sorting-the-sentence](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -231,4 +232,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
