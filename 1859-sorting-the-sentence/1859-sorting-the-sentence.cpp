@@ -1,7 +1,7 @@
 class Solution {
 public:
     string sortSentence(string s) {
-        int index = 0 ;
+        int index = 0;
         map<int, string> mpp;
         while (index < s.size()) {
             string ans = "";
