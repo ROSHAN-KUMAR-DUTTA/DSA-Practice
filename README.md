@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/2235-add-two-integers) |
@@ -237,4 +238,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/1859-sorting-the-sentence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ROSHAN-KUMAR-DUTTA/DSA-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
